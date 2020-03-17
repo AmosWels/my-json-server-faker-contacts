@@ -39,7 +39,6 @@
             "__typename": "contact_list"
           },
           "__typename": "contact"
-        },
-        
+        }
       ]      
 }
